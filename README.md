@@ -17,7 +17,7 @@ Tudo isso acontece sem que nenhum desenvolvedor precise intervir manualmente.
 O fluxo completo foi representado em um diagrama para facilitar a visualização:
 
 
-(./images/Captura de tela 2025-12-10 144104.png)
+(./images/Captura%20de%20tela%202025-12-10%20144104.png)
 
 
 ---
